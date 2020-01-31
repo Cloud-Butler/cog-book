@@ -1,9 +1,11 @@
+<!--
 [![Build Status](https://travis-ci.org/operable/cog-book.svg?branch=master)](https://travis-ci.org/operable/cog-book)
+-->
 
 The Cog Book
 ============
 
-This is the home of The Cog Book, the definitive reference for the [Cog](https://github.com/operable/cog) chat platform, by [Operable](https://operable.io).
+This is the home of The Cog Book, the definitive reference for the [Cloud-Butler Cog](https://github.com/Cloud-Butler/cog) chat platform, by [Operable](https://operable.io).
 
 The book is written in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) and built using [Sphinx](http://sphinx-doc.org).
 
